@@ -1,0 +1,21 @@
+# Archivos de Variables de Entorno (Credenciales y Secretos)
+.env
+*.env
+
+
+# Compilación de Maven y artefactos generados
+target/
+*.jar
+*.war
+
+# Archivos de configuración de IDEs (VS Code / IntelliJ)
+.vscode/
+.idea/
+*.iml
+.settings/
+.classpath
+.project
+
+# Archivos del SO
+.DS_Store
+Thumbs.db
